@@ -36,3 +36,9 @@ subscribe to or unsubscribe from a stream of events coming from that publisher.
 
 ![](https://refactoring.guru/images/patterns/diagrams/observer/structure.png)
 
+### Iterator
+
+Iterator is a behavioral design pattern that lets you traverse elements of a collection without exposing its 
+underlying representation (list, stack, tree, etc.)
+
+- Usage examples: `java.util.Iterator` (also `java.util.Scanner`)
